@@ -1,0 +1,21 @@
+
+pseudo code
+{
+Initial Function()
+{
+  //Sample Code
+}
+added file security path 
+<<<<<<< HEAD
+added file1 secirty pat1
+=======
+addef file1 security path 
+>>>>>>> f2
+Initial Security()
+{
+ //Sample Code
+}
+
+
+
+}
